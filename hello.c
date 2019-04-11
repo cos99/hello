@@ -5,6 +5,6 @@ int main()
 {
 	char s[20];
 	scanf("%s",s);
-	printf("Hello, %s\n",s);
+	printf("Hello, %s mare teapa asdasfgdf\n",s);
 	return 0;
 }
